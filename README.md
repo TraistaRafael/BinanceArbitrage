@@ -7,8 +7,9 @@ An arbitrage oportunity is detected as a profit in exchanging triangle touple of
 # :warning: If you want to perform real transactions based on the opportunities detected by this script please be aware of risks!
 
 # Getting started
-
-Requirements: py 3.x
+Requirements: \
+- py 3.x \
+- https://github.com/ccxt
 ```
 pip install ccxt
 py main.py

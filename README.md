@@ -1,14 +1,10 @@
-# BinanceArbitrage
+# :moneybag:  BinanceArbitrage  
+:construction: Under development, pull requests and ideas are welcome!
 
 This tool connects to Binance api, checks for arbitrage opportunities realtime and simulates transactions.
 An arbitrage oportunity is detected as a profit in exchanging triangle touple of symbols. Example: #  ETH/USD -> USD/BNB -> BNB/ETH
 
-!!!
-If you want to perform real transactions based on the opportunities detected by this script please be aware of risks!
-!!!
-
-Pull requests are welcome!
-
+# :warning: If you want to perform real transactions based on the opportunities detected by this script please be aware of risks!
 
 # Getting started
 
